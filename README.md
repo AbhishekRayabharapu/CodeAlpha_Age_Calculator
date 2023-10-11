@@ -1,4 +1,4 @@
-Age Calculator
+<h1>Age Calculator</h1>
 Welcome to the Age Calculator project! This web application allows users to calculate their age based on the input Date of Birth. It's a simple and user-friendly tool that provides accurate age calculations.
 
 Features
